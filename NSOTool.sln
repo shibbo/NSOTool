@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSOTool", "NSOTool\NSOTool.csproj", "{D3115CC5-0D37-4D83-B84E-550238E43263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3115CC5-0D37-4D83-B84E-550238E43263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3115CC5-0D37-4D83-B84E-550238E43263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3115CC5-0D37-4D83-B84E-550238E43263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3115CC5-0D37-4D83-B84E-550238E43263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8947CBC0-1735-4C9F-9870-6A45E32197B2}
+	EndGlobalSection
+EndGlobal
